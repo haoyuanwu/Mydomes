@@ -1,0 +1,6 @@
+framework module HYUIkit {
+  umbrella header "HYUIkit.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+# Xcode
+*.xccheckout
+*.xcuserstate
+
+build/
+Build/
+DerivedData
+xcuserdata
+
+Examples/iPhone Demo/iVersion.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
